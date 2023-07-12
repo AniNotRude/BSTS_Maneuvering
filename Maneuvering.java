@@ -1,5 +1,5 @@
 import java.util.*;    
-class GFG{   
+class Main{   
      
 // Function for computing nCr    
 public static int nCr(int n, int r)        
